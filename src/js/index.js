@@ -3,6 +3,7 @@
 let x = 2
 let y = 10
 
+
 const multiplication = (x, y) => {
      let multiplication = 0;
      for (let index = 0; index < y; index++){
