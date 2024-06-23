@@ -30,4 +30,5 @@ let juegosBorrados = juegos.splice(pos, 2);
 console.log({juegosBorrados, juegos});
 
 let metroidIndex = juegos.indexOf('Metroid'); // caseSensitive
+// Si devulve -1 quiere decir que no lo encontro dentro del arreglo
 console.log({metroidIndex});
